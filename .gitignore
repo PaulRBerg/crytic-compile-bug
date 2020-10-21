@@ -1,0 +1,15 @@
+# folders
+artifacts/
+build/
+cache/
+coverage/
+crytic-export/
+node_modules/
+
+# files
+*.env
+*.log
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
