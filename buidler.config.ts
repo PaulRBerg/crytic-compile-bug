@@ -14,7 +14,7 @@ const config: BuidlerConfig = {
       enabled: true,
       runs: 200,
     },
-    version: "0.7.4",
+    version: "0.6.10",
   },
 };
 
